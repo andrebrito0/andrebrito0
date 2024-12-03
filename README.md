@@ -10,8 +10,8 @@ My name is **André Brito** and I'm a **26-year-old applied mathematician** livi
 
 ## 🧪 Career Highlights
 - **Data Expert Consulant**
- 💡 Helped other people get their data organized through scripting.
- 🎯 Developed Dashboards for KPI reporting.
+  💡 Helped other people get their data organized through scripting.
+  🎯 Developed Dashboards for KPI reporting.
 - **Data Analyst/Manager at BNITM**  
   🦠 Cleaned and managed databases for a study on neglected tropical diseases in Madagascar.  
   📊 Automated reports and performed statistical analyses.  
