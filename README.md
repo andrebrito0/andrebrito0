@@ -29,7 +29,7 @@ I’m a big fan of urban living, traveling, and hiking (Dolomites are my favorit
 
 ## Here are some of the projects that I have developed during my academic and professional carrer.
 
-  - [Scheduling in the Portuguese Health Call Centre (SNS 24)]()
+  - [Scheduling in the Portuguese Health Call Centre (SNS 24)](https://github.com/andrebrito0/Scheduling-in-a-Health-Call-Centre)
   - [Programming Graph and Algorithms]()
   - [Seismic Data with DBSCAN]()
   - [Temperature-Mortality Association with Distributed Lag Models]()
