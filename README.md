@@ -9,7 +9,7 @@ My name is André Brito and I'm a **26-year-old applied mathematician** living i
   Developed a knack for statistical modeling and numerical methods.
 
 ## 🧪 Career Highlights
-- **Data Manager at BNITM**  
+- **Data Analyst/Manager at BNITM**  
   🦠 Cleaned and managed databases for a study on neglected tropical diseases in Madagascar.  
   📊 Automated reports and performed statistical analyses.  
 - **Underwriting Analyst at AIG**  
