@@ -1,6 +1,6 @@
 # 👋 Hello there!
 
-My name is **André Brito** and I'm a **26-year-old applied mathematician** living in Lisbon, originally from the sunny south of Portugal. With a passion for statistics, optimization, and programming, I thrive on solving real-world problems through data and mathematics.
+My name is **André Brito** and I'm an **applied mathematician** living in Lisbon, originally from the sunny south of Portugal. With a passion for statistics, optimization, and programming, I thrive on solving real-world problems through data and mathematics.
 
 ## 🎓 Academic Journey
 - **BSc in Mathematics Applied to Economics and Management**  
@@ -10,6 +10,8 @@ My name is **André Brito** and I'm a **26-year-old applied mathematician** livi
 
 ## 🧪 Career Highlights
 - **Data Expert Consulant**
+  🦠 Cleaned and managed databases for a study on neglected tropical diseases in Madagascar.  
+  📊 Automated reports and performed statistical analyses.  
   💡 Helped other people get their data organized through scripting.
   🎯 Developed Dashboards for KPI reporting.
 - **Data Analyst/Manager at BNITM**  
