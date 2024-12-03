@@ -27,7 +27,7 @@ I’m a big fan of urban living, traveling, and hiking (Dolomites are my favorit
 
 ---
 
-# Here are some of the projects that I have developed during my academic and professional carrer.
+## Here are some of the projects that I have developed during my academic and professional carrer.
 
   - [Scheduling in the Portuguese Health Call Centre (SNS 24)]()
   - [Programming Graph and Algorithms]()
