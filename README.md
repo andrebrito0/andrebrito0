@@ -35,7 +35,7 @@ I’m a big fan of urban living, traveling, and hiking (Dolomites are my favorit
   - [Scheduling in the Portuguese Health Call Centre (SNS 24)](https://github.com/andrebrito0/Scheduling-in-a-Health-Call-Centre)
   - [Programming Graph and Algorithms](https://github.com/andrebrito0/graphs_and_algorithms/tree/main)
   - [Seismic Data with DBSCAN](https://github.com/andrebrito0/dbscan_seismic_data)
-  - [Temperature-Mortality Association with Distributed Lag Models]()
+  - [Temperature-Mortality Association with Distributed Lag Models](https://github.com/andrebrito0/dlm)
   - [Working with exports from Climate Data Store by Copernicus](https://github.com/andrebrito0/climate_data_store)
 
 
