@@ -5,7 +5,7 @@ My name is **André Brito** and I'm an **applied mathematician** living in Lisbo
 ## 🎓 Academic Journey
 - **BSc in Mathematics Applied to Economics and Management**  
   Loved courses like Statistics, Data Analysis, and Graph Algorithms, where I got to code optimization algorithms from scratch.  
-- **MSc in Mathematics and Applications (Specialization in Statistics & Operations Research)**  
+- **MSc in Mathematics and Applications (Specialization in Actuarial Sciences, Statistics & Operations Research)**  
   Developed a knack for statistical modeling and numerical methods.
 
 ## 🧪 Career Highlights
