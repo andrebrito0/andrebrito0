@@ -1,14 +1,21 @@
 # 👋 Hello there!
 
-My name is **André Brito** and I'm an **applied mathematician** living in Lisbon, originally from the sunny south of Portugal. With a passion for statistics, optimization, and programming, I thrive on solving real-world problems through data and mathematics.
+My name is **André Brito** and I'm an **applied mathematician** living in Lisbon, originally from the sunny south of Portugal. With a passion for statistics, optimization, and programming, I thrive on solving real-world problems through data and mathematics. Currently, I'm PhD Student in Mathematics at the Science and Technology School of Nova University Lisbon - NOVA FCT, with specialization in Statistics and Risk Management. I'll focus my research on epidemiology and statistical and mathematical modeling.
 
 ## 🎓 Academic Journey
 - **BSc in Mathematics Applied to Economics and Management**  
   Loved courses like Statistics, Data Analysis, and Graph Algorithms, where I got to code optimization algorithms from scratch.  
 - **MSc in Mathematics and Applications (Specialization in Actuarial Sciences, Statistics & Operations Research)**  
   Developed a knack for statistical modeling and numerical methods.
+- **PhD Student in Mathematics**
+  Currently a part of the PhD in Mathematics at NOVA FCT.
 
 ## 🧪 Career Highlights
+- **Resarch Scientist at National Health Institute**
+  🎓 PhD researcher at INSA’s Department of Epidemiology.
+  📊 Work with large epidemiological datasets for public health research and surveillance.
+  💉 Contribute to the VEBIS vaccine-effectiveness study (ECDC) — EHR data management, statistical analysis, reporting.
+  🛠️ Design data structures, implement processing pipelines, and build analysis scripts for epidemiological studies.
 - **Data Expert Consulant**
   💡 Helped other people get their data organized through scripting.
   🎯 Developed Dashboards in Power BI for Result monitoring and reporting.
