@@ -8,7 +8,7 @@ My name is **André Brito** and I'm an **applied mathematician** living in Lisbo
 - **MSc in Mathematics and Applications (Specialization in Actuarial Sciences, Statistics & Operations Research)**  
   Developed a knack for statistical modeling and numerical methods.
 - **PhD Student in Mathematics**
-  Currently a part of the PhD in Mathematics at NOVA FCT.
+  Currently a part of the PhD in Mathematics at NOVA FCT, really focused in epidemiology.
 
 ## 🧪 Career Highlights
 - **Resarch Scientist at National Health Institute**
